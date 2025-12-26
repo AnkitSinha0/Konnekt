@@ -1,0 +1,1 @@
+tryna create a production ready web app that handles chatting , group texting and more like video calling etc
