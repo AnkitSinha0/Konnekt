@@ -1,8 +1,8 @@
-export function signup(req,res){
+export async function signup(req,res){
     res.send('Signup Route');
 };
 
-export function login(req,res){
+export async function login(req,res){
     res.send('Login Route');
 }   
 
